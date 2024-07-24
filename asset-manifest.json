@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/software-engineer-portfolio-website/static/css/main.5ea209ff.css",
+    "main.js": "/software-engineer-portfolio-website/static/js/main.d1ef6000.js",
+    "static/js/453.ed3810f9.chunk.js": "/software-engineer-portfolio-website/static/js/453.ed3810f9.chunk.js",
+    "static/media/time-zone-app.png": "/software-engineer-portfolio-website/static/media/time-zone-app.09d4c52c014bf8265e9d.png",
+    "static/media/hero-image.png": "/software-engineer-portfolio-website/static/media/hero-image.2f6b88cf2fc52273281a.png",
+    "static/media/space-tourism.png": "/software-engineer-portfolio-website/static/media/space-tourism.145bf61fcef13e940562.png",
+    "static/media/greenwood-city-builder.png": "/software-engineer-portfolio-website/static/media/greenwood-city-builder.0af74a2f8d8774e3f2ca.png",
+    "static/media/image-filter.jpg": "/software-engineer-portfolio-website/static/media/image-filter.6e5c7229bc8d1500ec9b.jpg",
+    "static/media/to-do-list.png": "/software-engineer-portfolio-website/static/media/to-do-list.9029eba97ac4f60261df.png",
+    "static/media/guessing-game.png": "/software-engineer-portfolio-website/static/media/guessing-game.74d47afd303ef2c8184d.png",
+    "static/media/hero-background-circle.png": "/software-engineer-portfolio-website/static/media/hero-background-circle.66550aa7ae09a68de475.png",
+    "index.html": "/software-engineer-portfolio-website/index.html",
+    "main.5ea209ff.css.map": "/software-engineer-portfolio-website/static/css/main.5ea209ff.css.map",
+    "main.d1ef6000.js.map": "/software-engineer-portfolio-website/static/js/main.d1ef6000.js.map",
+    "453.ed3810f9.chunk.js.map": "/software-engineer-portfolio-website/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ea209ff.css",
+    "static/js/main.d1ef6000.js"
+  ]
+}
